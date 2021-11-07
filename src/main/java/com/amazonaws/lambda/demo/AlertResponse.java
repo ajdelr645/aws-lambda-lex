@@ -1,5 +1,6 @@
 package com.amazonaws.lambda.demo;
 
+//test intellij change
 public class AlertResponse {
 	
 	private DialogAction dialogAction;
