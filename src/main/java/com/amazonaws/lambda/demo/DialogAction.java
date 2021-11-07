@@ -1,5 +1,5 @@
 package com.amazonaws.lambda.demo;
-
+//changes from github
 public class DialogAction {
 	
 	private String type;
